@@ -1,0 +1,11 @@
+membuat navigation bar dengan ketentuan:
+-juka ukuran layar di bawah brakpoint medium, maka buatkan navigation bar mendatar
+-jika ukuran layar di bawa brakpoint large, maka buatkan navigation bar menjadi menurun
+-------------------------------------------------------------------------------------------
+modifikasi navigation sebelumnya:
+- menggunakan Flexbox
+------------------------------------------------------------------------------------
+modifikasi nav bar dengan ketentuan:
+-menggunakan Flexbox
+-sesuaikan responsif
+-buatkan konten di dalamnya
