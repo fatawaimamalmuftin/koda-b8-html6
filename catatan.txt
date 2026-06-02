@@ -8,4 +8,4 @@ modifikasi navigation sebelumnya:
 modifikasi nav bar dengan ketentuan:
 -menggunakan Flexbox
 -sesuaikan responsif
--buatkan konten di dalamnya
+-buatkan konten di dalamnya, dengan standar semenarik mungkin dengan memanfaatkan tata letak Flexbox
